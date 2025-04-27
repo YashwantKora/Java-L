@@ -1,3 +1,4 @@
+//1. Write a Java program to add a method to a class.
 
 public class addMethod {
     public static void main(String [] args) {
