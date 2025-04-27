@@ -1,4 +1,4 @@
-//7. Write a Java program to demonstrate default constructor.
+//8. Write a Java program to demonstrate parameterized constructor.
 
 public class parameterizedConstructor {
     public static void main(String[] args) {
