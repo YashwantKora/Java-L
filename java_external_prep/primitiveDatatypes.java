@@ -8,7 +8,7 @@ public class primitiveDatatypes {
         double d = 23.666d;
         byte b = 4;
         short s = 23;
-        boolean bool = true;
+        boolean bl = true;
 
         System.out.println(a);
         System.out.println(i);
@@ -16,6 +16,6 @@ public class primitiveDatatypes {
         System.out.println(d);
         System.out.println(b);
         System.out.println(s);
-        System.out.println(bool);
+        System.out.println(bl);
     }
 }
