@@ -11,9 +11,9 @@ public class _stringBuffer {
 
         System.out.println("Capacity = " + str.capacity());
 
-        // int pos = str.indexOf("Language");
+        int pos = str.indexOf("Language");
 
-        str.insert("Language", "Oriented ");
+        str.insert(pos, "Oriented ");
         System.out.println("Modified string = " + str);
 
         str.setCharAt(6, '-');
