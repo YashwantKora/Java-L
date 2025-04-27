@@ -24,5 +24,6 @@ public class if_else {
         else {
             System.out.println("Invalid inputs!");
         }
+        scanner.close();
     }
 }
